@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/g4azDsZx)
 # 【第6回】フレームワークを使ったプログラミング
 ## テーマ
 1. バリデーション機能(入力チェック機能)について
@@ -45,12 +46,12 @@
 
 ## 演習level1 step6
 1. STEP-6のページを開きます、なにも入力せずにコメント投稿ボタンを押してください。<br>
-メールアドレスにも必須チェックが掛かるようにしましょう。  
+メールアドレスにも必須チェックが掛かるようにしましょう。
 エラーメッセージは「メールアドレスを入力してください」に変更してください。
 ![image](https://user-images.githubusercontent.com/32722128/154542682-b80d6d97-66c8-49ab-9382-35c070ae04c7.png)
 
 ## ヒント
-1. Commentクラスのフィールドに必須チェック(NULL×、空文字×)のアノテーションを追加しましょう。 
+1. Commentクラスのフィールドに必須チェック(NULL×、空文字×)のアノテーションを追加しましょう。
 * 編集先:`~/src/main/java/com/classroom/assignment/model/request/Comment.java`
 
 ## テスト

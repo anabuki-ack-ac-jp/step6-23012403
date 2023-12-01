@@ -20,7 +20,7 @@ public class Step6Controller {
 
   @PostMapping("/comment")
   public String evening(@Validated Comment comment, BindingResult result, Model model) {
-    if(result.hasErrors()){
+    if (result.hasErrors()) {
       return "step6/index";
     }
     model.addAttribute("name", comment.getName());
