@@ -46,12 +46,12 @@
 
 ## 演習level1 step6
 1. STEP-6のページを開きます、なにも入力せずにコメント投稿ボタンを押してください。<br>
-メールアドレスにも必須チェックが掛かるようにしましょう。  
+メールアドレスにも必須チェックが掛かるようにしましょう。
 エラーメッセージは「メールアドレスを入力してください」に変更してください。
 ![image](https://user-images.githubusercontent.com/32722128/154542682-b80d6d97-66c8-49ab-9382-35c070ae04c7.png)
 
 ## ヒント
-1. Commentクラスのフィールドに必須チェック(NULL×、空文字×)のアノテーションを追加しましょう。 
+1. Commentクラスのフィールドに必須チェック(NULL×、空文字×)のアノテーションを追加しましょう。
 * 編集先:`~/src/main/java/com/classroom/assignment/model/request/Comment.java`
 
 ## テスト
